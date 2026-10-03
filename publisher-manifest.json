@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "30494e1e33c7f432c34439ec",
+  "owner": "qvrvvhyp",
+  "repo": "page-5b98c2ad100c0494a848ff3d",
+  "title": "速联宝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b98c2ad100c0494a848ff3d",
+      "a": "速联宝",
+      "b": "",
+      "entity": "速联宝",
+      "brand": "速联宝",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c82579f28b5d0400ef4adb2ae43368a7f61b0266e766695e73e4bfabb79eb44e",
+      "content": {
+        "keyword1": "速联宝",
+        "keyword2": "",
+        "primary_entity": "速联宝",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速联宝提供官方机场订阅与多端加速客户端，覆盖办公、流媒体与游戏场景，套餐含基础版、旗舰版与团队版，支持稳定节点与清晰的下载导入说明。",
+          "AI_DESCRIPTION": "速联宝提供官方机场订阅与多端加速客户端，覆盖办公、流媒体与游戏场景，套餐含基础版、旗舰版与团队版，支持稳定节点与清晰的下载导入说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#eef5f8;color:#12263a;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",sans-serif;font-size:16px;line-height:1.7;}*{box-sizing:border-box;}a{color:#0e7f7a;text-decoration:none;}a:hover{text-decoration:underline;}header{background:#0a2540;color:#fff;padding:14px 0;}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;}.brand-mark{font-weight:700;font-size:1.15rem;color:#9ff3ee;letter-spacing:.04em;}nav{display:flex;flex-wrap:wrap;gap:10px 14px;}nav a{color:#c9f6f2;font-size:.92rem;}.wrap{max-width:980px;margin:0 auto;padding:0 16px;}main{padding:22px 0 8px;}h1{margin:8px 0 10px;font-size:1.9rem;line-height:1.3;color:#0a2540;}h2{margin:28px 0 12px;font-size:1.38rem;color:#0a2540;border-left:4px solid #1ac7c4;padding-left:10px;}h3{margin:16px 0 8px;font-size:1.08rem;color:#0d3b66;}.lead{font-size:1.04rem;color:#334e68;margin:0 0 14px;}.note{font-size:.94rem;color:#3d566b;}.grid{display:flex;flex-wrap:wrap;gap:14px;}.col,.plan,.panel{flex:1 1 260px;background:#fff;border:1px solid #d5e4ec;padding:16px 18px;}.plan.featured{flex:1 1 280px;border:2px solid #1ac7c4;background:#f3fffe;}.badge{display:inline-block;background:#0a2540;color:#9ff3ee;font-size:.75rem;padding:2px 8px;margin-bottom:8px;}.price{font-size:1.32rem;font-weight:700;color:#0a2540;}.annual{color:#157874;font-size:.92rem;margin:4px 0 10px;}ul{margin:8px 0 0;padding-left:1.2em;}li{margin:4px 0;}.steps{counter-reset:step;}.steps li{margin:8px 0;}details{background:#fff;border:1px solid #cfe0e8;margin:0 0 10px;padding:10px 14px;}summary{font-weight:700;color:#0a2540;}details p{margin:8px 0 4px;color:#2b4255;}.ad{margin:22px 0;background:#dff7f5;border:1px dashed #1ac7c4;padding:14px 16px;text-align:center;color:#0a2540;}.official{background:#0a2540;color:#d7e7ee;padding:16px 18px;}.official a{color:#9ff3ee;}footer{background:#071828;color:#b7c9d4;padding:22px 0;margin-top:8px;font-size:.92rem;}footer h2{border:0;padding:0;color:#9ff3ee;font-size:1.05rem;margin:0 0 8px;}footer .grid{gap:18px;}footer a{color:#9ff3ee;}@media (max-width:640px){h1{font-size:1.55rem;}nav a{font-size:.86rem;}.col,.plan,.panel{flex:1 1 100%;}}</style><header><div class=\"wrap\"><div class=\"brand-mark\">速联宝官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">下载与操作</a><a href=\"#nodes\">节点说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">站点地图</a></nav></div></header><main><div class=\"wrap\"><h1>速联宝</h1><p class=\"lead\" id=\"intro\">速联宝是面向跨境访问的官方机场与 VPN 加速服务，集中提供机场订阅、多端客户端下载和线路说明。本页按官网结构整理套餐、使用场景与导入步骤，方便在电脑和手机上直接阅读并完成配置。</p><div class=\"grid\"><article class=\"col\"><h2>品牌简介</h2><p>速联宝围绕稳定转发与清晰订阅流程设计：用户按套餐获取订阅地址，再在客户端中导入即可切换节点。服务同时覆盖日常网页加速、流媒体解锁和需要专线优化的游戏场景，避免把下载入口、套餐说明和操作步骤拆散在多个无法核对的页面里。</p><p class=\"note\">本站为速联宝官方网站入口。客户端安装包与订阅凭证只通过官网指引发放，不在第三方网盘或来路不明的压缩包中提供。</p></article><article class=\"col\"><h2>为什么选择官方下载</h2><p>机场订阅的核心是节点可用性与客户端配置是否正确。速联宝把「官网下载、订阅导入、设备数量、流量额度」写在同一页，减少版本错配。旗舰版含 IPLC 游戏优化与原生流媒体解锁，团队版面向多设备与定制路由，基础版适合轻度跨境浏览。</p><p>若你正在寻找梯子网络加速、加速器或客户端下载，请先对照下方套餐额度，再按操作说明完成导入，而不是先安装来源不明的软件。</p></article></div><h2 id=\"plans\">套餐与订阅额度</h2><p>价格按自然月计费，年付可锁定当前档位。设备数指同时在线会话，流量为当月累计出站用量。选择后即可在官网账户中复制订阅链接。</p><div class=\"grid\"><section class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></section><section class=\"plan featured\"><p class=\"badge\">当前主推</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></section><section class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></section></div><h2 id=\"scenes\">使用场景</h2><div class=\"grid\"><section class=\"panel\"><h3>跨境办公与会议</h3><p>远程桌面、企业邮箱和会议软件对延迟抖动敏感。建议固定同一区域节点，避免频繁切换导致会话中断。团队版可按部门拆分路由，把办公域名走指定出口。</p></section><section class=\"panel\"><h3>学术检索与资料同步</h3><p>文献库、代码托管和对象存储在高峰时段容易超时。基础版即可完成检索与中小文件同步；大批量镜像建议旗舰版或团队版的高带宽节点，并在客户端开启分流，让国内站点直连。</p></section><section class=\"panel\"><h3>流媒体与内容制作</h3><p>旗舰版强调全节点原生流媒体解锁，适合核对版权库是否识别为当地住宅或机房出口。若只是偶尔观看，基础版的基础解锁通常足够；长期 4K 播放请预留流量余量。</p></section><section class=\"panel\"><h3>对战与主机游戏</h3><p>需要稳定往返时延时，优先使用旗舰版 IPLC 专线游戏加速优化。把游戏进程加入代理列表，大厅与下载可分开策略，避免更新占用对战通道。</p></section></div><h2 id=\"guide\">客户端下载与操作说明</h2><p>速联宝支持主流 Clash / Surge / Quantumult 兼容订阅，以及官方封装的桌面与移动端。下载前确认系统架构（Intel / Apple 芯片、Android APK 来源）。以下步骤在手机竖屏下同样可完成。</p><div class=\"grid\"><section class=\"panel\"><h3>官方下载入口</h3><p>桌面端：Windows 安装包、macOS 应用。移动端：iOS 通过系统商店或配置描述文件接入，Android 使用官网签名包。路由器与 NAS 使用通用订阅，在 OpenWrt 或容器中导入。</p><p class=\"note\"><a href=\"#plans\">返回套餐确认额度</a> 后，在账户页复制订阅 URL。本页不放置可执行文件直链，以避免缓存旧版本。</p></section><section class=\"panel\"><h3>五步完成连接</h3><ol class=\"steps\"><li>在速联宝官网登录并开通对应套餐，复制订阅地址。</li><li>按系统下载客户端，安装后不要导入来历不明的第三方配置。</li><li>选择「从 URL 更新」，粘贴订阅，等待节点列表刷新。</li><li>开启系统代理或 TUN 模式，先选延迟较低的区域节点做连通测试。</li><li>按场景分流：仅代理跨境域名，或全局用于游戏与会议。</li></ol></section></div><p>导入失败时，优先检查订阅是否过期、系统时间是否准确、以及是否开启了冲突的其他加速器。同一账号超出同时在线设备数会被踢下线，请在套餐说明中核对 3 / 5 / 20 台上限。</p><h2 id=\"nodes\">节点与网络加速说明</h2><div class=\"grid\"><section class=\"panel\"><h3>线路组织</h3><p>普通线路节点池覆盖香港、新加坡、日本、美西等常用入口，适合网页与轻量 API。旗舰版增加 IPLC 专线，缩短到部分游戏与实时音视频的路径。团队版提供 VIP 高带宽出口，可按企业网段做源站回源。</p></section><section class=\"panel\"><h3>使用建议</h3><p>白天办公选近距离节点；晚间流媒体可改用解锁标记完整的入口。测速请在客户端内完成，不要用未代理浏览器访问测速站，以免结果失真。流量以控制台统计为准，当月额度用尽后新连接会受限，次月重置。</p></section></div><h2 id=\"faq\">常见问题</h2><p>以下问题按实际开通顺序排列，展开即可阅读完整说明。若仍无法连接，通过旗舰版或团队版工单通道提交客户端日志，不要重复安装多个加速器。</p><details><summary>速联宝是 VPN 还是机场订阅？二者如何配合？</summary><p>速联宝同时提供机场订阅与可用于多端的加速客户端。机场侧负责节点与流量结算，客户端负责协议握手、分流规则和系统代理。你拿到的是订阅 URL，而不是单一固定服务器密码；节点会随线路维护更新，客户端定时拉取即可。</p></details><details><summary>如何在官网完成客户端下载并导入机场订阅？</summary><p>先确认套餐已生效，再进入账户页复制订阅链接。按系统从速联宝官网下载对应客户端，安装后选择订阅导入。iOS 需允许配置描述文件，Android 需允许未知来源仅针对官网签名包。导入成功后节点名称会出现区域前缀，选择一个进行延迟检测即可连接。</p></details><details><summary>基础版、旗舰版和团队版应该怎么选？</summary><p>个人轻度浏览、邮件和基础流媒体选基础版（100GB / 3 设备）。需要原生流媒体、游戏 IPLC 或优先工单选旗舰版（300GB / 5 设备）。工作室、实验室或多分支办公选团队版（1000GB / 20 设备，含定制路由与客户经理）。年付适合用量稳定的长期使用。</p></details><details><summary>是否能解锁流媒体？游戏延迟如何优化？</summary><p>基础版提供基础流媒体解锁，部分版权库可能仍按机房 IP 判定。旗舰版强调全节点原生解锁，并带 IPLC 专线游戏加速优化。游戏请使用进程代理而非浏览器插件，并关闭其他占用 UDP 的加速工具，以免握手失败。</p></details><details><summary>一台订阅能登录多少设备？流量如何计算？</summary><p>同时在线上限为基础版 3 台、旗舰版 5 台、团队版 20 台。流量按出站字节累计，不含纯国内直连。短视频和系统更新会快速消耗额度，建议在客户端对应用商店走直连。超额后当月加速会降级或暂停，可在控制台查看明细。</p></details><details><summary>连接不稳定或无法访问时如何排查？</summary><p>按顺序检查：本地系统时间、订阅是否过期、是否开启冲突 VPN、节点是否维护。更换同区域备用节点通常比反复重装更有效。公司网络若拦截隧道协议，可改用客户端提供的备用端口或交由团队版定制路由。旗舰版用户可走 7x24 优先工单。</p></details><details><summary>速联宝官方网站如何识别，避免下到错误安装包？</summary><p>认准品牌名「速联宝」与本页结构：含套餐原文、操作说明和常见问题，而不是只有一个巨大下载按钮。安装包数字签名应与官网公布的应用名一致。不要在论坛附件或短链中获取「破解版加速器」。本页链接均为站内锚点，用于跳转到套餐、下载说明与问答。</p></details><div class=\"ad\" id=\"ads\">速联宝合作与企业开通：团队版含专属客户经理。媒体互换与技术文档合作请通过官网工单备注「商务」，勿在公共评论区投放推广脚本。</div><section class=\"official\" id=\"official\"><h2>官方身份</h2><p>本页是速联宝官方网站的套餐与客户端说明页，用于公布基础版、旗舰版、团队版价格与功能边界，并给出机场订阅导入步骤。不在此页展示用户评分或虚构评价。下载与续费请回到页面顶部导航对应锚点操作。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><div class=\"wrap\"><div class=\"grid\"><section><h2>站点地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐价格</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">官网下载与操作</a> · <a href=\"#nodes\">节点与加速</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#official\">官方说明</a></p><p>XML 地图：https://www.sulianbao.com/sitemap.xml</p></section><section><h2>友链</h2><p><a href=\"#guide\">客户端导入手册</a> · <a href=\"#nodes\">线路选择备忘</a> · <a href=\"#faq\">故障排查</a> · <a href=\"#plans\">年付对照</a> · <a href=\"#ads\">商务合作</a></p></section><section><h2>版权</h2><p>速联宝 官方网站. 内容仅描述本品牌机场订阅、VPN 加速器与客户端下载流程。保留套餐名称与价格表述与当前页一致。</p></section></div></div></footer>",
+          "hash": "3e1b1d84ca51bbdf770b03fb50e9657cd57e9569241142581a29f813cf76a583",
+          "seo": {
+            "title": "速联宝官网 | 机场订阅与 VPN 加速器客户端下载",
+            "keywords": "速联宝,速联宝官网,速联宝机场,速联宝VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "速联宝提供官方机场订阅与多端加速客户端，覆盖办公、流媒体与游戏场景，套餐含基础版、旗舰版与团队版，支持稳定节点与清晰的下载导入说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cshde.cn",
+    "host": "p-4337015a14.cshde.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cshde.cn",
+      "url": "https://cshde.cn/",
+      "label": "Bitz",
+      "apex": "cshde.cn",
+      "kind": null,
+      "identity": "jyxwre/page-1cfedc7a8637cf6b7b45fa7f"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ca624bd22131814133ad0de33e30c535909c4efb2c4acf1736a278ef9126479f",
+    "sitemap.xml": "e8580ebdfc5ce07f214a5854510d93b59497662b01a872137791b27e0233714c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b3ed2b1edcc3f7e9ef47e77ccc207fdd7bebe96afdf7c11a0409756a596b7702",
+    "robots.txt": "d49dc0ed0ea6f60a5673e3e4b1c85165795cdc67f83c7d3311bc04c59e4ddd5a",
+    "cd4258d4b85cb117c788f5c37add42fe.txt": "0669b2345b9ea6f8ad8dff5c7c7f1be838749162a9e01237408507414a43792c"
+  },
+  "revision": "92abbff1ca9b0d70a75a9dccf0e39bac95c31a0a10aace9fc2b6a9dcf928f7d3"
+}
